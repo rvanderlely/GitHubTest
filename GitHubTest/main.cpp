@@ -6,9 +6,13 @@
 //
 
 #include <iostream>
+using namespace std;
 
-int main(int argc, const char * argv[]) {
-    // insert code here...
-    std::cout << "Hello, World!\n";
+
+int main()
+{
+
+   cout << "Hello, World. I'm using Github!\n";
+    cout<<"This is very exciting.";
     return 0;
 }
